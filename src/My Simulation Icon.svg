@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="DD 3 Logo - Phase 1.svg"
-   inkscape:export-filename="C:\Users\Zack\Sims Media\Digital Dollhouse\DD Logos and Banners\DD Logos\DD3 Logo - Phase 1 - Transparent.png"
+   sodipodi:docname="My Simulation Icon.svg"
+   inkscape:export-filename="My Simulation Plumbob - BG.png"
    inkscape:export-xdpi="317.5"
    inkscape:export-ydpi="317.5">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="72.919674"
-     inkscape:cy="66.881863"
+     inkscape:zoom="2.8"
+     inkscape:cx="-2.1969641"
+     inkscape:cy="73.253579"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -75,43 +75,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-99.999995,-412.09428)"
-     sodipodi:insensitive="true">
-    <ellipse
-       style="opacity:1;fill:none;stroke:#378bbe;stroke-width:4.38855362;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4136"
-       cx="170.5321"
-       cy="482.34033"
-       rx="64.409264"
-       ry="63.220539" />
-    <ellipse
-       style="opacity:1;fill:#378bbe;fill-opacity:1;stroke:none;stroke-width:4.09518194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4136-8"
-       cx="170.55984"
-       cy="482.79788"
-       rx="54.176178"
-       ry="53.946072" />
-  </g>
+     transform="translate(-99.999995,-412.09428)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="logo"
      style="display:inline">
     <g
-       id="g4170"
-       transform="matrix(1.0374188,0.13267779,-0.13212774,1.0417377,6.7792367,-11.350314)">
+       id="g4727">
       <path
-         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         id="path4162"
-         d="M 38.638335,68.700075 71.386336,3.846462 99.752567,68.461643 68.6189,136.17645 Z"
-         style="fill:#44aa00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4166"
+         d="M 66.785714,5.4822834 62.321429,83.517998 105.71429,71.732283 Z"
+         style="fill:#b3ff81;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         id="path4164"
-         d="M 71.616956,14.099055 93.75645,68.938508 68.388279,125.68542 82.225464,68.22321 Z"
-         style="opacity:0.794;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4168"
+         d="M 62.678571,83.696569 33.035714,71.732283 66.785714,4.5894262 Z"
+         style="fill:#44aa00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4170"
+         d="M 62.857143,82.982283 70,134.23228 32.857143,71.375141 Z"
+         style="fill:#378b00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4172"
+         d="M 62.857143,83.339426 105.89286,71.910855 69.821429,134.23228 Z"
+         style="fill:#44aa00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
     </g>
   </g>
 </svg>

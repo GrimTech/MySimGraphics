@@ -19,8 +19,6 @@
    inkscape:export-filename="C:\Users\Zack\Sims Media\Digital Dollhouse\DD Logos and Banners\DD Logos\DD3 Logo - Phase 1 - Transparent.png"
    inkscape:export-xdpi="317.5"
    inkscape:export-ydpi="317.5">
-  <title
-     id="title4184">DD 3 Logo - Phase 1</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -31,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="35.670299"
+     inkscape:cx="-2.0841521"
      inkscape:cy="66.881863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,8 +52,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>DD 3 Logo - Phase 1</dc:title>
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

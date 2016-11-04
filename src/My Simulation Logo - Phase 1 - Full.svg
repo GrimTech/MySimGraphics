@@ -14,7 +14,7 @@
    id="svg3134"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="NSO Logo - Phase 2.svg">
+   sodipodi:docname="My Simulation Logo - Phase 2.svg">
   <defs
      id="defs3136" />
   <sodipodi:namedview
@@ -38,14 +38,27 @@
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3139">
+  <metadata
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
