@@ -1,4 +1,4 @@
-# FreeSims Logos & Graphics
+# My Simulation Logos & Graphics
 ![CC0](https://cdn.rawgit.com/tomascw/tms-licenses/master/license-CC0-lightgrey.svg)
 
 ![My Simulatio logo](https://github.com/mysimulation/mysim-graphics/raw/master/png/My%20Simulation%20Wiki.png)
